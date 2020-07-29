@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello Friend</title>
+    <title>kweebs</title>
     
     
     
     <link>https://www.kweebs.com/</link>
-    <description>Recent content on Hello Friend</description>
+    <description>Recent content on kweebs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Sep 1986 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>July 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.kweebs.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +17,7 @@
     <item>
       <title>About</title>
       <link>https://www.kweebs.com/about/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.kweebs.com/about/</guid>
       <description>
@@ -39,7 +39,7 @@ So, there you have it&amp;hellip; enjoy!
     <item>
       <title>Showcase</title>
       <link>https://www.kweebs.com/showcase/</link>
-      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.kweebs.com/showcase/</guid>
       <description>
@@ -57,7 +57,7 @@ So, there you have it&amp;hellip; enjoy!
     </item>
     
     <item>
-      <title>Hello Friend</title>
+      <title>kweebs</title>
       <link>https://www.kweebs.com/post/hello/</link>
       <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
       
