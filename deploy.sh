@@ -2,6 +2,9 @@
 #source: https://letsautomate.it/article/how-to-setup-a-hugo-website-on-github/
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
+#copy my new post to themes because could not find a way to publish in netlify root
+cp content/post/* themes/hello-friend/exampleSite/content/post
+
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
