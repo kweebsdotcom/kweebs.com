@@ -9,7 +9,7 @@ cp content/post/* themes/hello-friend/exampleSite/content/post
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
-## cd public
+cd public
 # Add changes to git.
 git add .
 
