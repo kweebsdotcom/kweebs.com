@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kweebs</title>
+    
+    
+    
+    <link>https://www.kweebs.com/post/</link>
+    <description>Recent content in Posts on Kweebs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Aug 2020 16:11:27 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.kweebs.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Check Your Internet Speed via Terminal</title>
+      <link>https://www.kweebs.com/post/check-your-internet-speed-via-terminal/</link>
+      <pubDate>Wed, 05 Aug 2020 16:11:27 +0100</pubDate>
+      
+      <guid>https://www.kweebs.com/post/check-your-internet-speed-via-terminal/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          title: &amp;ldquo;How to Check Internet Speed via Terminal&amp;rdquo; date: 2020-08-05T11:49:23+01:00 draft: true To check your internet speed in terminal you can use 2 options:
+sudo apt install speedtest-cli speedtest-cli
+or simply run
+curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python -
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Hello Friend</title>
+      <link>https://www.kweebs.com/post/hello/</link>
+      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kweebs.com/post/hello/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://www.kweebs.com/img/hello.jpg&#34;/&gt;
+          
+        
+        
+        
+          &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
