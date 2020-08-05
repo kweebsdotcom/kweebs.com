@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kweebs</title>
+    <title>Kweebs</title>
     
     
     
     <link>https://www.kweebs.com/</link>
-    <description>Recent content on kweebs</description>
+    <description>Recent content on Kweebs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>July 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 1986 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.kweebs.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +17,7 @@
     <item>
       <title>About</title>
       <link>https://www.kweebs.com/about/</link>
-      <pubDate>Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.kweebs.com/about/</guid>
       <description>
@@ -28,8 +28,7 @@
         
         
         
-          Hi there My name is Andre and I&amp;rsquo;m the author of this websit. I made it to help you present your ideas easier.
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+          Hi there My name is Andre and I&amp;rsquo;m the author of this website. I made it to help me and you to configure stuff we often forget.
 So, there you have it&amp;hellip; enjoy!
           
         
@@ -39,7 +38,7 @@ So, there you have it&amp;hellip; enjoy!
     <item>
       <title>Showcase</title>
       <link>https://www.kweebs.com/showcase/</link>
-      <pubDate>Fri, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.kweebs.com/showcase/</guid>
       <description>
@@ -50,14 +49,15 @@ So, there you have it&amp;hellip; enjoy!
         
         
         
-          Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
+          Header 2 Header 3 Nulla libero turpis, lacinia vitae cursus ut, auctor dictum nisl. Fusce varius felis nec sem ullamcorper, at convallis nisi vestibulum. Duis risus odio, porta sit amet placerat mollis, tincidunt non mauris. Suspendisse fringilla, odio a dignissim pharetra, est urna sollicitudin urna, eu scelerisque magna ex vitae tellus.
+/* PostCSS code */ pre { background: #1a1a1d; padding: 20px; border-radius: 8px; font-size: 1rem; overflow: auto; @media (--phone) { white-space: pre-wrap; word-wrap: break-word; } code { background: none !
           
         
         </description>
     </item>
     
     <item>
-      <title>kweebs</title>
+      <title>Kweebs</title>
       <link>https://www.kweebs.com/post/hello/</link>
       <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
       
