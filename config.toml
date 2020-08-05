@@ -1,4 +1,4 @@
-baseurl = "https://www.kweebs.com"
+baseurl = "https://www.kweebs.com/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
