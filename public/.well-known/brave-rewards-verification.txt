@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kweebs.com
+Token: 553a051828b58c9159c331080cfb08fdec7f50c233d77e68026e59565001b909
