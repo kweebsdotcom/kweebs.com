@@ -27,7 +27,7 @@
         
         
         
-          After initial configuration of your github or gitlab credentials (see &amp;lt;href=&amp;quot;https://education.github.com/git-cheat-sheet-education.pdf&amp;quot;&amp;gt;here)$
+          After initial configuration of your github or gitlab credentials (see here)$
 Add changes to git. git add .
 Commit changes. git commit -m &amp;ldquo;your message for the log&amp;rdquo;
 and finally Push source and build repos. git push origin master
