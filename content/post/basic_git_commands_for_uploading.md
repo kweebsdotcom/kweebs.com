@@ -1,17 +1,26 @@
 ---
-title: "Basic_git_commands_for_uploading"
-date: 2020-08-11T13:47:35+01:00
+title: "Basic git commands for uploading"
+date: 2020-08-11T14:09:23+01:00
+cover: "img/Gitcheatsheet.png"
 draft: false
 ---
 
-After initial configuration of your github or gitlab credentials (see <href="https://education.github.com/git-cheat-sheet-education.pdf">here</href>), there are very few commands you need to worry about to upload your content to the server:
+After initial configuration of your github or gitlab credentials (see <a href="https://education.github.com/git-cheat-sheet-education.pdf">here</a>) you normally only use a couple of commands after that.
+These are mine:
 
-git add . 
 
-git commit -m "your messge for the log"
+# Add changes to git.
 
-and finally
+git add .
 
-git commit
+# Commit changes.
+
+git commit -m "your message for the log"
+
+# and finally
+
+# Push source and build repos.
+
+git push origin master
 
 
