@@ -29,10 +29,9 @@
         
         
           After initial configuration of your github or gitlab credentials (see &amp;lt;href=&amp;quot;https://education.github.com/git-cheat-sheet-education.pdf&amp;quot;&amp;gt;here), there are very few commands you need to worry about to upload your content to the server:
-git add .
-git commit -m &amp;ldquo;your messge for the log&amp;rdquo;
-and finally
-git commit
+Add changes to git. git add .
+Commit changes. git commit -m &amp;ldquo;your message for the log&amp;rdquo;
+and finally Push source and build repos. git push origin master
           
         
         </description>
