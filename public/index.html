@@ -22,9 +22,7 @@
   gtag('config', 'UA-174654538-1');
 </script>
 
-{{ if and (eq .Site.Params.env "production") (ne .Site.GoogleAnalytics "") }}
-    {{ template "_internal/google_analytics_async.html" . }}
-{{ end }}
+
 
 <link rel="stylesheet" href="https://www.kweebs.com/assets/style.css">
 
