@@ -17,7 +17,6 @@ I'm going to explain a little on how to make some money with brave-browser espec
 
 [Brave Browser](https://brave.com/kwe719)
 
-Some of you don't even get ads for what I read. Personally, I've already received approximately $ 1.50 on the PC and $ 1.40 on the phone and I just started this month.
 
 ##### Note: from the 20th of this month I stopped receiving; maybe because advertisers run out of money ...
 
