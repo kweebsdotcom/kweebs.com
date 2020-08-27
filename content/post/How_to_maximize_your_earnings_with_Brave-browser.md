@@ -9,7 +9,7 @@ cover: "img/Brave_rewards.png"
 
 [Brave Browser](https://brave.com/kwe719)
 
-If you don't already know, brave-browser is a chrome based web browser focused on privacy. It has ad-blocking incorporated and many other privacy features that chrome-browser doesn not have by default.
+If you don't already know, brave-browser is a chrome based web browser focused on privacy. It has ad-blocking incorporated and many other privacy features that chrome-browser does not have by default.
 
 I'm going to explain a little on how to make some money with brave-browser especially the part of the referendums/affiliates that can earn you about $5 (or more depending on who gets your referrals e.g. US is $7,5) per month for each friend that uses your link.
 
