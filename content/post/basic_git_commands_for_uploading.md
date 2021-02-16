@@ -5,7 +5,7 @@ cover: "img/Gitcheatsheet.png"
 draft: false
 ---
 
-After initial configuration of your github or gitlab credentials (see <a href="https://education.github.com/git-cheat-sheet-education.pdf">here</a>) you normally only use a couple of commands after that.
+After initial configuration of your github or gitlab credentials (see [here][1](https://education.github.com/git-cheat-sheet-education.pdf )) you normally only use a couple of commands after that.
 These are mine:
 
 
@@ -24,3 +24,4 @@ git commit -m "your message for the log"
 git push origin master
 
 
+[1]: <https://education.github.com/git-cheat-sheet-education.pdf>

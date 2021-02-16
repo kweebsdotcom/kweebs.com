@@ -70,7 +70,7 @@ $ ls -1 *.mp3 &amp;gt; playlist.m3u That&amp;rsquo;s it, after this you can just
         
         
         
-          After initial configuration of your github or gitlab credentials (see here) you normally only use a couple of commands after that. These are mine:
+          After initial configuration of your github or gitlab credentials (see here(https://education.github.com/git-cheat-sheet-education.pdf )) you normally only use a couple of commands after that. These are mine:
 Add changes to git. git add .
 Commit changes. git commit -m &amp;ldquo;your message for the log&amp;rdquo;
 and finally Push source and build repos. git push origin master
