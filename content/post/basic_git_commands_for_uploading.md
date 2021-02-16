@@ -5,7 +5,7 @@ cover: "img/Gitcheatsheet.png"
 draft: false
 ---
 
-After initial configuration of your github or gitlab credentials (see [here][1](https://education.github.com/git-cheat-sheet-education.pdf )) you normally only use a couple of commands after that.
+After initial configuration of your github or gitlab credentials (see [here][1] ) you normally only use a couple of commands after that.
 These are mine:
 
 
