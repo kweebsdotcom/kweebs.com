@@ -5,7 +5,7 @@ draft: false
 cover: "img/Brave_rewards.png"
 ---
 
-# How to maximize your earnings with Brave-browser (Update - deprecated)
+(Update - deprecated)
 
 [Brave Browser](https://brave.com/kwe719)
 

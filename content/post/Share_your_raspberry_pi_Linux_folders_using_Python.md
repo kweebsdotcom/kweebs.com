@@ -5,7 +5,6 @@ draft: false
 cover: "img/Apache-Directory-Listing.png"
 ---
 
-# Share your raspberry pi/Linux folders using a Python webserver.
 
 An easy way to share your raspberry pi folder when you only have access to it via shell is using a python webserver.
 
