@@ -2,7 +2,7 @@
 title: "Tips to help you with the terminal"
 date: 2021-04-07T14:21:28+01:00
 draft: false
-cover: "sudo.png"
+cover: "img/sudo.png"
 ---
 
 
