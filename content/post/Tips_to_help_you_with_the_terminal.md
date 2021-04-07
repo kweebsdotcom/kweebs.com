@@ -14,13 +14,13 @@ Well, this is ine of them:
 ```sh
 $ cp somefile /path/to/destination/somefile
 ```
-# Press alt+Shift+3 and it will insert a # in the begining of the command for your convenience
+Press alt+Shift+3 and it will insert a # in the begining of the command for your convenience
 
 ```sh
 #somefile /path/to/destination/somefile
 ```
 
-# another one is the combination of the keys CTRL+r to search your history
+Another one is the combination of the keys CTRL+r to search your history
 After pressed just start typing the command you typed in the past and it will find it for you,
 if you typed more than one and it was'nt your latest you can press ctrl+r again until you find it.
 
@@ -30,14 +30,14 @@ if you typed more than one and it was'nt your latest you can press ctrl+r again 
 chmod +x /work/execute.sh
 sudo !!
 ```
-# sudo !! will execute the previous command with root privileges where "!!" is the last command
-# If you want just the last part of the command use "!$"
+sudo !! will execute the previous command with root privileges where "!!" is the last command
+If you want just the last part of the command use "!$"
 
 ```sh
 chmod +x /work/execute.py
 python !$
 ```
-# If it has more than an argument  you can use "!*"
+If it has more than an argument  you can use "!*"
 
 ```sh
 chmod +x file1 file2 file3
