@@ -5,7 +5,7 @@ draft: false
 cover: "img/terminalplaylist.png"
 ---
 
-# How to make a playlist from a directory of mp3 files inside terminal?
+
 
 It turns out that there exists a fairly universal format called m3u format, and it can be as simple as a list of filenames separated by newlines.
 
