@@ -8,4 +8,4 @@ draft: false
 
 
 
-[![How to find Gtmedia V8 UHD 4k hidden menu](img/GTMEDIA_UHD.jpg)](https://www.youtube.com/watch?v=TQPOOPSmU6g "How to find Gtmedia V8 UHD 4k hidden menu")
+[![How to find Gtmedia V8 UHD 4k hidden menu](http://img.youtube.com/vi/TQPOOPSmU6g/0.jpg)](https://www.youtube.com/watch?v=TQPOOPSmU6g "How to find Gtmedia V8 UHD 4k hidden menu")
