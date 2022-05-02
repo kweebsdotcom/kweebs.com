@@ -2,6 +2,11 @@
 title: "How to find Gtmedia V8 UHD 4k hidden menu (with step-by-step instructions)"
 date: 2022-04-28T19:09:23+01:00
 draft: false
+keywords:
+- gtmedia v8 uhd 4k
+- softcam
+- cccam
+- c-lines
 ---
 
 
