@@ -17,8 +17,8 @@ paginate = 5
 [languages]
   [languages.en]
     title = "Kweebs"
-    subtitle = "..."
-    keywords = ""
+    subtitle = "Technology is constantly evolving, with new and innovative ways to do things.Computing is no exception, and there are always new tutorials and guides to help you learn more about this ever-growing field."
+    keywords = "Technology, tutorials, Computing, bash, python"
     copyright = ""
     menuMore = "Show more"
     writtenBy = "Written by"
@@ -47,3 +47,8 @@ paginate = 5
        # identifier = "showcase"
        # name = "Showcase"
        # url = "/showcase"
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
