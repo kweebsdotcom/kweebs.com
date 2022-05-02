@@ -11,5 +11,6 @@ draft: false
 
 
 
-This is an afiliate link, in case you wan to buy it.
+This is an afiliate link, in case you want to buy it.
+
 GTMedia V8 UHD 4K: https://amzn.to/3Kr1s8X
