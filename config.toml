@@ -17,8 +17,8 @@ paginate = 5
 [languages]
   [languages.en]
     title = "Kweebs"
-    subtitle = "Technology is constantly evolving, with new and innovative ways to do things.Computing is no exception, and there are always new tutorials and guides to help you learn more about this ever-growing field."
-    keywords = "Technology, tutorials, Computing, bash, python"
+    subtitle = "Explore the Latest Innovations in Technology: Discover Cutting-Edge Computing Tutorials and Guides to Enhance Your Skills in This Rapidly Evolving Field."
+    keywords = "Technology, tutorials, Computing, bash, python, technology innovations, computing tutorials, learn computing,guide to technology"
     copyright = ""
     menuMore = "Show more"
     writtenBy = "Written by"
