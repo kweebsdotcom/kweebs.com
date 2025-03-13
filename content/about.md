@@ -6,12 +6,9 @@ author = "Kweebs"
 
 # Hi there!
 
-At Kweebs.com, we are passionate about Linux! Our website is your go-to resource for practical tips, clever tricks, and insightful articles that delve deep into the world of Linux. Whether you're a seasoned sysadmin or just starting your journey with Linux, we offer content that caters to all levels of expertise.
+Welcome to Kweebs.com, your ultimate destination for all things Linux! We are dedicated to sharing our passion for Linux through practical tips, innovative tricks, and in-depth articles that explore the vast landscape of this powerful operating system. Whether you're an experienced sysadmin or a newcomer to the Linux community, our content is designed to meet the needs of users at every skill level.
 
-
-
-
-If some information on this website has helped you and you like my content and want to help me keep on going, you can support me with a Monero or Bitcoin donation.
+If you find our resources helpful and enjoy our content, consider supporting us with a donation in Monero or Bitcoin. Your contributions help us continue our mission!
 
 ETH:
 0x933E77488916ec209c68274C82A5578bFffC52b2 
